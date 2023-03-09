@@ -1,0 +1,17 @@
+{
+    "name": "meteysh/valigara",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dmitry S",
+            "email": "meteysh@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
